@@ -7,7 +7,7 @@ source material can be cloned from:
    :maxdepth: 2
    :caption: Unix Shell
    
-   test_bayes.ipynb
+   numerical_integration/test_scipy_integrate.ipynb
    
 Indices and tables
 ==================
